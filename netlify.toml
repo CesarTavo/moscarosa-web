@@ -8,4 +8,4 @@
 [build]
   base    = "site"
   command = "make"
-  publish = "oscar-main/index.html"
+  publish = "main-oscar/index.html"
